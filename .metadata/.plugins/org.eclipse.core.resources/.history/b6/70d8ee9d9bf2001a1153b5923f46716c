@@ -1,0 +1,23 @@
+package com.sunilOS.ctl;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+
+public class DocCtl {
+
+	@RequestMapping(value = "/hello/{id}",method = RequestMethod.GET)
+	public Map<String,String> hello(@PathVariable long id) {
+		Map<String, String> map=new HashMap<String, String>();
+		
+		return map;
+	}
+	
+
+}

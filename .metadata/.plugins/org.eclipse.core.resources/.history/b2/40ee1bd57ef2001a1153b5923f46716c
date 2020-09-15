@@ -1,0 +1,13 @@
+package com.sunilOS.ncsform;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NcsformServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NcsformServerApplication.class, args);
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.sunilOS.ncssso;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NcsssoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NcsssoApplication.class, args);
+	}
+
+}

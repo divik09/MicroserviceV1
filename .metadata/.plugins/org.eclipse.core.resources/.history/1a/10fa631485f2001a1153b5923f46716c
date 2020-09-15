@@ -1,0 +1,40 @@
+#spring.autoconfigure.exclude=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+server.port=8100
+spring.application.name = NCSFORM
+server.servlet.context-path =/NCSFORM
+spring.jmx.default-domain=  NCSFORM
+
+
+#doc resourse
+doc.source=d:\\
+
+
+#pagination
+page.size=50
+
+##Spring DATASOURCE (DataSourceAutoConfiguration & DataSourceProperties)
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.datasource.url = jdbc:mysql://localhost:3306/ncsform
+spring.datasource.username= root
+spring.datasource.password = root
+
+
+## Hibernate/JPA  Properties
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql = true
+# Hibernate ddl auto (create, create-drop, validate, update)
+spring.jpa.hibernate.ddl-auto = update
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect
+spring.jpa.properties.hibernate.current_session_context_class=org.springframework.orm.hibernate5.SpringSessionContext
+
+
+#Email properties
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+spring.mail.username=webmaster@sunrays.co.in
+spring.mail.password=PA$$1234
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+
+
+

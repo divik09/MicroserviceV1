@@ -1,0 +1,5 @@
+package com.sunilOS.dto;
+
+public class DocDTO {
+
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0" value="121"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="194"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="82"/>
+	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ncssso/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sunilOS.ncssso{NcsssoApplication.java[NcsssoApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ncsdoc/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sunilOS.ncsdoc{NcsdocApplication.java[NcsdocApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ncsform-apigateway/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sunilOS.ncsform{NcsformApigatewayApplication.java[NcsformApigatewayApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=config-server/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sunilOS.configserver{ConfigServerApplication.java[ConfigServerApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ncsform-server/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sunilOS.ncsform{NcsformServerApplication.java[NcsformServerApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ncsform/src\/main\/java&amp;lt;com.sunilOS.ncsform{NcsformApplication.java[NcsformApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=NCSSuite/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sunilOS.NCSSuite{NcsSuiteApplication.java[NcsSuiteApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=NCSGateway/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sunilOS.NCSGateway{NcsGatewayApplication.java[NcsGatewayApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=admin-server/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sunilOS.adminserver{AdminServerApplication.java[AdminServerApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ncstext/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.sunilOS.ncstext{NcstextApplication.java[NcstextApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="391"/>
+			<item key="DIALOG_Y_ORIGIN" value="39"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

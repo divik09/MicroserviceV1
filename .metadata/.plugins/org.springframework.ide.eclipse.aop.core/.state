@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="admin-server"/>
+<aop-project name="ncstext"/>
+<aop-project name="ncssso"/>
+<aop-project name="ncsform-apigateway"/>
+<aop-project name="config-server"/>
+<aop-project name="ncsform-server"/>
+<aop-project name="ncsform"/>
+<aop-project name="ncsdoc"/>
+<aop-project name="NCSGateway"/>
+</aop-reference-model>
